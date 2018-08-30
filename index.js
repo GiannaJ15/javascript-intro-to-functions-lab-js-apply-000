@@ -27,5 +27,5 @@ function sayHiToGrandma(string)
   }
   else if (string === "I love you, Grandma.") {
     return "I love you, too."}
-  //Check if what's coming in is equal to what you would've expected if you had lower cased the string 
+  //Check if what's coming in is equal to what you would've expected if you had lower/upper cased the string 
 }
